@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfCircle", "AreaOfCircle.csproj", "{326558BC-9143-411A-90E5-BD15F4523F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "..\Employess\Employee.csproj", "{39AE2276-55A3-41A5-A205-6F58940EE602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayEmployees", "..\DisplayEmployees\DisplayEmployees.csproj", "{5ACE5E23-2E36-4119-AC88-FFCA57AF1573}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{326558BC-9143-411A-90E5-BD15F4523F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326558BC-9143-411A-90E5-BD15F4523F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326558BC-9143-411A-90E5-BD15F4523F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AE2276-55A3-41A5-A205-6F58940EE602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AE2276-55A3-41A5-A205-6F58940EE602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AE2276-55A3-41A5-A205-6F58940EE602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AE2276-55A3-41A5-A205-6F58940EE602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACE5E23-2E36-4119-AC88-FFCA57AF1573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACE5E23-2E36-4119-AC88-FFCA57AF1573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACE5E23-2E36-4119-AC88-FFCA57AF1573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACE5E23-2E36-4119-AC88-FFCA57AF1573}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
